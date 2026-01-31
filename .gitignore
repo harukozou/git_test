@@ -5,4 +5,3 @@ ingnore_dir/
 
 # 拡張子がlogのものすべてを除外したい場合
 *.log
-
